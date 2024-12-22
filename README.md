@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @york
-- 👀 I’m interested in coding
+- 👋 Hi, I'm York Lee, a developer who loves to learn and create new things. Check my [portfolio](https://york-lee-portfolio.vercel.app/en) and [blog](https://blog-york-lee.netlify.app/) to know a little more about me...
 - 🌱 I’m currently learning full stack coding
 
 <!---
